@@ -1,4 +1,3 @@
 # PredictionBikeRentals
 
-Creating new features
-Applying different machine learning models
+Creating new features; applying different machine learning models
